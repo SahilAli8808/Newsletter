@@ -21,6 +21,13 @@ body {
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
   text-align: center;
 }
+@media screen and (max-width: 740px) {
+  .card {
+  margin-top: 126px;
+  }
+}
+    
+
 
 .header {
   margin-bottom: 30px;
